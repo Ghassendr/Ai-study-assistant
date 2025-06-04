@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="school-dashboard">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/school-dashboard/TimingFramework-0.55.jar!/" />
+      <root url="jar://$PROJECT_DIR$/school-dashboard/miglayout-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

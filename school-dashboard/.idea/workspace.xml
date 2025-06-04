@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9ac0c5d-2e2f-4b04-851a-dbbb9175588d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/component/Card.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/Card.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/Header.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/Header.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/Menu.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/Profile.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/Profile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dialog/Message.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dialog/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/event/EventMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/event/EventMenuSelected.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/event/EventShowPopupMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/Form1.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/Form1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/Form_Home.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/Form_Home.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/MainForm.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/MainForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon/delete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon/edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon/message.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon/notification.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon/profile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon/profile1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon/profile2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/Main.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/ModelCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/ModelMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/ModelStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/Button.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/ButtonBadges.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/ImageAvatar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/MenuAnimation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/MenuButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/MenuItem.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/MenuItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/PanelPopup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/PopupMenu.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/PopupMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/ProgressBarCustom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/icon/DefaultIconCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/icon/GoogleMaterialDesignIcons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/icon/IconCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/icon/IconFont.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/icon/IconFontSwing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/icon/MaterialIcons-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/noticeboard/ModelNoticeBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/noticeboard/NoticeBoard.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/noticeboard/NoticeBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/scrollbar/ModernScrollBarUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/scrollbar/ScrollBarCustom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/table/Action.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/table/Action.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/table/EventAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/table/ModelAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/table/ModelProfile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/table/Profile.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/table/Profile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/table/Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/table/TableCellAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swing/table/TableHeader.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2vmJTA9fYfAF7C67fadokmiRIdo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/lasis/Documents/GitHub/school-dashboard"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9ac0c5d-2e2f-4b04-851a-dbbb9175588d" name="Changes" comment="" />
+      <created>1744744322085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744744322085</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

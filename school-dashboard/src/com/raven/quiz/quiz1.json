@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is the size of an int in Java?",
+    "answers": [
+      { "text": "4 bytes", "isCorrect": true },
+      { "text": "2 bytes", "isCorrect": false },
+      { "text": "8 bytes", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which keyword is used to inherit a class in Java?",
+    "answers": [
+      { "text": "this", "isCorrect": false },
+      { "text": "super", "isCorrect": false },
+      { "text": "extends", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Which of the following is not a primitive data type in Java?",
+    "answers": [
+      { "text": "String", "isCorrect": true },
+      { "text": "int", "isCorrect": false },
+      { "text": "boolean", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Can we override static methods in Java?",
+    "answers": [
+      { "text": "Yes", "isCorrect": false },
+      { "text": "No", "isCorrect": true },
+      { "text": "Only in interfaces", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What does JVM stand for?",
+    "answers": [
+      { "text": "Java Virtual Machine", "isCorrect": true },
+      { "text": "Java Variable Method", "isCorrect": false },
+      { "text": "Joint Virtual Module", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the default value of a boolean in Java?",
+    "answers": [
+      { "text": "true", "isCorrect": false },
+      { "text": "false", "isCorrect": true },
+      { "text": "null", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which exception is thrown when a division by zero occurs in Java?",
+    "answers": [
+      { "text": "NullPointerException", "isCorrect": false },
+      { "text": "ArithmeticException", "isCorrect": true },
+      { "text": "IOException", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which of the following is used to create an object in Java?",
+    "answers": [
+      { "text": "class", "isCorrect": false },
+      { "text": "new", "isCorrect": true },
+      { "text": "object", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the parent class of all Java classes?",
+    "answers": [
+      { "text": "Object", "isCorrect": true },
+      { "text": "Class", "isCorrect": false },
+      { "text": "Base", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is used to define a constant in Java?",
+    "answers": [
+      { "text": "const", "isCorrect": false },
+      { "text": "final", "isCorrect": true },
+      { "text": "static", "isCorrect": false }
+    ]
+  }
+]
